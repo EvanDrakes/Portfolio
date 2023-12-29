@@ -22,6 +22,6 @@ Using **Tableau** to create a dashboard on Bike Rides in London, creating an adj
 With a larger dataset with upwards of 50,000 entries using **SQL**, I organized four questions and wrote code that would be ready to go straight into the data visualization process. The questions all got answered and cleaned in such way that you could create a nice looking dashboard/graphs to finish the project. 
 
 ## Personal Information
-Email: evandrakesss@gmail.com
-Address: 313 Green st.
-Phone Number: 779-970-1425
+- Email: evandrakesss@gmail.com
+- Address: 313 Green st.
+- Phone Number: 779-970-1425
