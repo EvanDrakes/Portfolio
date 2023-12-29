@@ -23,5 +23,5 @@ With a larger dataset with upwards of 50,000 entries using **SQL**, I organized 
 
 ## Personal Information
 - Email: evandrakesss@gmail.com
-- Address: 313 Green st.
+- Address: 313 Green St, Rockton, IL
 - Phone Number: 779-970-1425
